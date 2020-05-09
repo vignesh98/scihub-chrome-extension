@@ -1,6 +1,6 @@
 {
     "name": "scihubopen",
     "version": "1.0",
-    "description": "Build an Extension!",
+    "description": "An extension to open an ieee link directly using scihub",
     "manifest_version": 2
   }
