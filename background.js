@@ -12,3 +12,18 @@ chrome.runtime.onInstalled.addListener(function() {
       }]);
     });
   });
+
+  var contextMenuItem = {
+    "id" : "scihub",
+    "title":"Open in SciHub",
+    "contexts" : ["link"]
+    
+  };
+chrome.contextMenus.create(contextMenuItem);
+chrome.contextMenus.onClicked.addListener(onClickHandler);
+// The onClicked callback function.
+function onClickHandler(info, tab) {
+  var sText = info.linkUrl;
+  var url = "https://sci-hub.tw/" + sText; 
+  window.open(url, '_blank');
+};

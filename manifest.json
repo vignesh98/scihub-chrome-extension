@@ -2,7 +2,8 @@
     "name": "scihubopen",
     "version": "1.0",
     "description": "An extension to open an ieee link directly using scihub",
-    "permissions": ["declarativeContent","storage"],
+    "permissions": ["contextMenus","activeTab","declarativeContent","storage"],
+
     "background": {
       "scripts": ["background.js"],
       "persistent": false
