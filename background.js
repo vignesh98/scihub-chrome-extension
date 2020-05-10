@@ -23,7 +23,6 @@ chrome.contextMenus.create(contextMenuItem);
 chrome.contextMenus.onClicked.addListener(onClickHandler);
 // The onClicked callback function.
 function onClickHandler(info, tab) {
-  var sText = info.linkUrl;
-  var url = "https://sci-hub.tw/" + sText; 
+  var url = "https://sci-hub.tw/" + info.linkUrl; 
   window.open(url, '_blank');
 };
