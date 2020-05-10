@@ -10,3 +10,6 @@ Right click on the ieee explore paper link and then click on the option to open 
 ![Image description](https://github.com/vignesh98/scihub-chrome-extension/blob/master/images/readme-images(notuseful)/open%20in%20scihub.png?raw=true)
 
 This opens up many possibilities to create a link to open anything and feel free to use it for anything
+
+
+The .crx file to directly install is avaliable at https://mega.nz/file/pShD3YCZ#VSEkMHUPcjp_mJGzvJkZmUgv3dSAUnQjBwtSMJR6XRc
