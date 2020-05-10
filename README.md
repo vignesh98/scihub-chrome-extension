@@ -9,4 +9,4 @@ Right click on the ieee explore paper link and then click on the option to open 
 
 ![Image description](https://github.com/vignesh98/scihub-chrome-extension/blob/master/images/readme-images(notuseful)/open%20in%20scihub.png?raw=true)
 
-
+This opens up many possibilities to create a link to open anything and feel free to use it for anything
