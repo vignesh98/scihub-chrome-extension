@@ -5,3 +5,8 @@ Install the extension using developer mode and unpack it.
  
 After installation browse to ieee explore and then click on a link to directly open it in scihub. This extension can be modified by anyone to fit their purpose. This was useful for me to browse easily.
 
+Right click on the ieee explore paper link and then click on the option to open in scihub
+
+![Image description](https://github.com/vignesh98/scihub-chrome-extension/blob/master/images/readme-images(notuseful)/open%20in%20scihub.png?raw=true)
+
+
